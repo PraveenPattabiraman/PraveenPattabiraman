@@ -7,8 +7,27 @@ DevOps enthusiast with expertise in AWS, Kubernetes, CI/CD pipelines, and tools 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenpattabiraman&label=Profile%20views&color=0e75b6&style=flat" alt="praveenpattabiraman" /> </p>
 
+### 🔧 Technologies and Tools
+
+- **Cloud**: AWS
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, GitLab CI/CD, Azure devops
+- **Configuration Management**: Ansible, Terraform
+- **Scripting**: Bash
+- **Version Control**: Git, GitHub
+
 - 🌱 I’m currently learning **Istio, Azure DevOps, and Kubernetes**
 - 📫 How to reach me **praveenraman.06@gmail.com**
+
+### 👯 I'm looking to collaborate on
+
+- Open-source projects related to DevOps, cloud-native technologies, and automation
+- Building scalable and highly available systems
+### 🏆 Certifications
+- AWS Certified Solutions Architect - Associate
+
+### 🎖️ Badges
+![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge)
 
 <table>
 <tr>
